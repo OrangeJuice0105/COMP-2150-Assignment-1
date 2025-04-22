@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ComparatorExample",
+            "request": "launch",
+            "mainClass": "ComparatorExample",
+            "projectName": "Assignment 1_154c96f3"
+        },
+        {
+            "type": "java",
+            "name": "MealTracker",
+            "request": "launch",
+            "mainClass": "MealTracker",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "test.Array",
+            "projectName": "Assignment 1_33cdfbdf"
+        },
+        {
+            "type": "java",
+            "name": "Recursive",
+            "request": "launch",
+            "mainClass": "Recursive",
+            "projectName": "Assignment 1_33cdfbdf"
+        },
+        {
+            "type": "java",
+            "name": "Recursive",
+            "request": "launch",
+            "mainClass": "Recursive",
+            "projectName": "Assignment 1_9c2b7fc7"
+        },
+        {
+            "type": "java",
+            "name": "CeilingTest",
+            "request": "launch",
+            "mainClass": "CeilingTest",
+            "projectName": "Assignment 1_9c2b7fc7"
+        }
+    ]
+}
